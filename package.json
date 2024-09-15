@@ -1,0 +1,22 @@
+{
+  "name": "com.micromatrix.fsm",
+  "displayName": "MM FSM",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "description": "Finite State Machine for C#",
+  "license": "MIT",
+  "keywords": [
+    "MicroMatrix",
+    "FSM"
+  ],
+  "author": {
+    "name": "Pan Yang",
+    "email": "actionmoon@aliyun.com"
+  },
+  "category": "MicroMatrix",
+  "relatedPackages": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/micromatrix/com.micromatrix.fsm.git"
+  }
+}
